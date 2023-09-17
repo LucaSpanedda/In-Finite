@@ -3,7 +3,8 @@ declare author "Luca Spanedda";
 declare author "Dario Sanfilippo";
 declare version "1.0";
 declare description "2023";
-declare copyright "Copyright (C) 2023 Luca Spanedda <lucaspanedda1995@gmail.com>";
+declare copyright "Copyright (C) 2023 Luca Spanedda <lucaspanedda1995@gmail dot com>";
+declare copyright "Copyright (C) 2023 Dario Sanfilippo <sanfilippo.dario at gmail dot com>";
 declare license "MIT license";
 // Import the standard Faust Libraries
 import("stdfaust.lib");
