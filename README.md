@@ -1,6 +1,7 @@
 # In-Finite
 
-In/Finite is a  live-electronic musical performance based on an Autonomous Complex Adaptive System, 
+In/Finite is a  live-electronic musical performance based on the Autonomous Complex Adaptive System
+that we modeled for [Waste Kompost Radio](https://github.com/LucaSpanedda/Waste_Kompost_Radio.git), 
 in which audio recording files are processed through the algorithm that gradually decompose over time sound informations. 
 The process comes to life by operating a transduction of those mechanisms that as in biological and chemical reactions decompose organic materials into "compost".
 In/Finite, is a play on words between the latin terms finitus, and the same word with its negative prefix in- (infinitus), 
